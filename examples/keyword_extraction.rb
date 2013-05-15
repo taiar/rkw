@@ -1,61 +1,43 @@
 require 'bundler'
 Bundler.require
 
-# Topics: NATION, NEW YORK, OCCUPY WALL STREET, PROTEST, US, WINTER, ZUCCOTTI PARK
-
-text = %q{Occupy Wall Street Weathers Its First Storm
-
-A member of the Occupy Wall Street movement looks for his tent in Zuccotti
-Park as the first winter snow falls in New York October 29, 2011. Lucas
-Jackson / Reuters
-
-The Occupy Wall Street movement began in Zuccotti Park on a glorious
-mid-September Saturday and, so far, many of its larger marches have taken
-place in the warmth of New York's Indian summer. But winter has been looming,
-and on Saturday, just a couple days before Halloween, the protesters got a
-preview of what they're in for.
-
-By morning, the crisp New York weather had given way to a true winter
-slushfest. Precipitation soaked the city, alternating between freezing rain
-and wet snow, while a bitter wind whipped between lower Manhattan's buildings.
-By mid-afternoon, a frozen film had varnished the surface of cars parked on
-the street and the dozens of tents in Zuccotti Park. Organizers scrambled to
-tie down tarps over the group's media center, as the storm blustered through
-the park.
-
-"People ask how we're going to get through the winter," one of the protesters
-said as he bundled together a tarp. "We're going to dress warm, buy hot food
-from around here. We'll be fine."
-
-Occupy's drum circle, which has until now been a constant presence in the
-park, was absent on Saturday afternoon, but a small band with a horn and drum
-stood at the park's entrance on Broadway, playing upbeat music. At the center
-of the green, a protester who gave her name as Kimmy said she had just
-returned to the city after working in Nashville. "We came the minute we
-landed. We don't care about the weather," she said.
-
-Nevertheless, Kimmy was prepared for adverse conditions, cozy in a ski jacket
-with her protest sign, featuring a long quote from Thomas Jefferson, laminated
-in waterproof plastic.
-
-In the six weeks since the group first gathered in lower Manhattan, it has
-become increasingly better organized. Its "working groups" have multiplied
-from a handful to 79, including those tasked with organizing the movement's
-public demands and handling the movement's media, alternative banking and
-sustainability needs, among many others.
-
-But the Comfort Working Group is likely to play a particularly important role
-as Occupy prepares for winter. Since Week 1, the Comfort Working Group has
-been accepting donations of hats, gloves and blankets. It has been endeavoring
-to keep those who sleep in the park warm at night. On Saturday, many
-protesters remained in their tents, out of the harsh weather, but true to
-their promise, they didn't leave.
-
-Occupy has remained stalwart throughout the last month and a half, vowing to
-endure indefinitely. On Oct. 10, Mayor Michael Bloomberg said that he didn't
-know when the protests might end, but added, "I think part of it has probably
-to do with the weather." The protesters seem determined to prove Hizzhonor
-wrong.
+text = %q{A historia do homem retrata, desde os primordios, a producao de bens e servicos calcada na exploracao dos mais fracos pelos mais fortes. Ao longo de todo um periodo evolutivo, o trabalho se aprimorou atraves de tecnicas e recursos. Humanizou-se! O trabalhador, apos muita luta, conquistou direitos que lhe asseguraram qualidade de vida.
+No atual contexto, honra e dignidade, antes conferidas ao homem em razao do trabalho, hoje, neste se perdem, sendo alvo de negociaces, haja vista o periodo de flexibilizacao e desregulamentacao das relaces trabalhistas em que a sociedade se encontra.
+Diante de tudo isto, pode-se dizer que toda luta travada desde a Revolucao Industrial ate os dias atuais esta se decompondo e, a passos largos, a classe trabalhadora retrocede.
+Nos ultimos anos, surgiu no cenario nacional o apelo da classe trabalhadora que, diante das mais diversas formas de pressao psicologica e agressao moral, praticadas de modo sucessivo e sutil no ambiente de trabalho, se viu vitima do assedio moral.
+Para maior compreensao da discussao que se segue e preciso antes de tudo conceituar assedio moral laboral. Pode-se definir assedio moral na relacao de trabalho como o comportamento intencional, abusivo, ostensivo, de molestacao praticado reiteradamente com a intencao de enfraquecer moralmente o trabalhador, ou grupo de trabalhadores, com o objetivo de dominar o outro impondo-lhe sujeicao.
+Ressalte-se que a pratica do assedio moral e tao antiga quanto o proprio trabalho, contudo nao faz muito tempo que ganhou contornos juridicos ensejando novas discusses. Pode-se dizer que a grande divulgacao da midia em relacao a existencia de um lado sombrio nas relaces de trabalho contribuiu para que os empregados se conscientizassem e tomassem coragem para denunciar e buscar junto a justica seus direitos.
+O assedio moral, hoje em dia, provoca um impacto muito maior que em outras epocas, quando o ritmo de competicao era menos elevado e estimulado. O mercado de trabalho tornou-se muito mais exigente, criou-se uma rotina de aumento de produtividade, gerando medo, angustia, incertezas ao trabalhador que, por sua vez, temendo perder seu emprego, passa a ser cumplice da agressao moral que a ele e dirigida, torna-se um adversario para os colegas e se sente num verdadeiro campo de guerra.
+O assedio, tal como e hoje, e efeito dos tempos modernos, da globalizacao, da flexibilizacao do trabalho, da competicao pelo mercado de trabalho, e fruto da ansiedade ante uma nova tarefa, do medo de nao saber, da avaliacao constante do desempenho, da certeza de existir um exercito de trabalhadores desempregados e aptos a realizar a mesma tarefa que ele, toda essa cobranca por eficacia tecnica, excelencia, criatividade e produtividade, geram tensao e incerteza.
+Dentro da atual estrutura organizacional do trabalho, na qual novos riscos aos trabalhadores sao impostos, sao comuns disturbios mentais e fisicos gerados pela pressao para produzir e ultrapassar as metas pre-estabelecidas. Aos trabalhadores e exigido ritmo intenso em jornadas prolongadas; fazer mais com menos pessoas e em ambiente de competitividade acentuada. A soma de todos estes fatores agrava acentua as causas e conseqencias do assedio moral.
+Percebe-se que o ambiente de trabalho vai se degradando na medida em que e contaminado pelo assedio moral.
+Diante do risco do desemprego e da ideia de um mercado de trabalho cada vez mais competitivo e exigente, os trabalhadores, lutam pela manutencao de seus empregos e submetem-se a presses, coaces, humilhaces e outras formas de manifestacao do assedio moral, e em grande escala vao adoecendo fisica e mentalmente e, em casos extremos, podem ate chegar ao suicidio.
+Ate o presente momento, nao existe Legislacao Federal aplicavel ao assedio moral, o que de certo modo tem contribuido para que tais abusos continuem ocorrendo e, sobretudo, crescam ilimitadamente, mas isto nao impede que o agressor sofra algumas conseqencias judiciais por seus atos.
+O assedio moral pode resultar em Acao de Indenizacao por Danos Morais e/ou Patrimoniais (violacao do direito a intimidade, assegurado no art. 5o., incisos "V" e "X", da Constituicao da Republica); Acao de Rescisao Indireta do Contrato de Trabalho (alinea "e" do Art. 483 da Consolidacao das Leis do Trabalho); Acao Penal pelo crime de Constrangimento Ilegal (artigo 146 do Codigo Penal Brasileiro). E ainda, a empresa podera demitir, por justa, causa o empregado que cometer assedio moral contra colega de trabalho (artigo 482, alinea "j" da Consolidacao das Leis do Trabalho).
+O crescente numero de aces, cujo cerne e o assedio moral, assusta e faz refletir sobre a necessidade de se modificar este quadro. Por isso, cabe ao empresariado repensar suas aces e buscar medidas preventivas de modo a sanear e extinguir essa pratica.
+Pode-se arriscar a dizer que o assedio moral dos novos tempos, muito mais que um ato isolado, decorrente da perversidade humana, e uma especie de tecnica gerencial para se conquistar os resultados esperados pela empresa. As empresas atuam conforme o mercado, focadas em metas e em lucros, assim utilizam-se de tecnicas que estimulam a competitividade, as conquistas, mas o outro lado destas tecnicas e que sempre que ha um vencedor, ha tambem um perdedor e este, ao inves de se sentir estimulado a estar la, no local do vencedor nas proximas oportunidades, acaba por ser humilhado e rejeitado, tornando-se vitima do assedio moral.
+Em alguns casos, o assedio moral ocorre, nao virtude da personalidade perversa do agressor ou em virtude de uma tentativa insidiosa de tornar o ambiente de trabalho tao inospito que faca o empregado desistir de seu emprego, mas pode, o assedio moral, se dar gracas ao despreparo do gestor.
+Atualmente percebe-se uma mudanca, mesmo que sutil e vagarosa, mas uma mudanca na forma de tratamento das empresas para com seus empregados, as empresas mais atentas apara as questes atuais, como a ocorrencia do assedio moral e outras necessidades do mercado estao se moldando, no atual contexto a valorizacao do empregado passou a ser algo imprescindivel, o que culminou finalmente na figura do "colaborador".
+Mas ainda que exista todo um projeto de estreitamento das relaces entre empregado e empregador, o respeito ainda nao e um direito totalmente conquistado. Ha toda uma luta pela frente, ha um lado sombrio nas relaces de trabalho que sofrem forte influencia de modelos de lideranca autocratica, que valorizam unicamente o capital.
+O assedio moral se transformou em um problema corriqueiro, quase epidemico. O assedio moral ao contrario do que possa parecer, ao agente assediador mais incauto, nao serve como metodo para se conquistar o respeito dos empregados, para aumentar a produtividade, nao faz a empresa melhor ou maior, mas ao contrario, torna o ambiente de trabalho um local de insatisfacao e baixa produtividade, com muitos empregados adoecidos e um passivo trabalhista que cresce dia apos dia.
+Partindo do principio que a pratica do assedio moral nao favorece ninguem, ao contrario, todos perdem, pode-se dizer que todos estes acontecimentos contaminam o ambiente de trabalho, tornando-o improdutivo e inadequado, alem disso, os custos do processo sao altos, ha dispendio de tempo e desgaste da imagem da empresa.
+Assim, ha necessidade de se preservar a saude fisica e mental dos trabalhadores, bem como manter um ambiente de trabalho salutar e prazeroso. Nao ha empresa que sobreviva sem a mao-de-obra de seus empregados e nao ha empregados que sobrevivam ao assedio moral e ao ambiente de trabalho contaminado por aces de desqualificacao do ser humano.
+No ritmo de alta competicao cada vez mais estimulado, a pressao exercida na cobranca de resultados acaba excedendo os limites do razoavel. Assim, ao fim da jornada de trabalho ha pessoas frustradas por nao alcancarem metas e outros que transformam o trabalho na razao unica de sua existencia, e esta situacao seguem ate o dia que nao agentem mais tanta pressao e comecam a adoecer, diminuir a qualidade do trabalho e sao substituidos, descobrindo que todo trabalho que tiveram foi em vao.
+Constatou-se que o assedio moral envolve uma serie de fatores, principalmente a pressao para produzir muito, com qualidade e em pouco tempo. Verificou-se ainda que a pratica do assedio moral e de dificil comprovacao, gracas a forma sutil, lenta e continua como ocorre. Outra importante conclusao e que sao muitos os prejuizos e varios sao os prejudicados quando se fala em assedio moral.
+Portanto, seja por meio de leis ou aces preventivas, o assedio moral deve ser coibido nas relaces laborais, tornando-se imprescindivel, a conscientizacao de todos, no sentido de prevenir o surgimento de atitudes que caracterizem o assedio moral no ambiente de trabalho, bem como proporcionar as vitimas subsidios para que as mesmas, quando agredidas, possam tomar as medidas necessarias para que o agressor seja devidamente punido. Pois, calar-se e contribuir para a proliferacao do assedio moral.
 }
 
-puts KeywordExtractor.extract_most_important_words(text, 5).map { |w| "#{w} #{w.rank}"}
+texto = %q{Estudo da Medicina vê melhora no sistema de registro de acidentes e doenças no trabalho}
+
+outro_texto = %q{A historia do homem retrata, desde os primordios, a producao de bens e servicos calcada na exploracao dos mais fracos pelos mais fortes. Ao longo de todo um periodo evolutivo, o trabalho se aprimorou atraves de tecnicas e recursos. Humanizou-se! O trabalhador, apos muita luta, conquistou direitos que lhe asseguraram qualidade de vida.
+No atual contexto, honra e dignidade, antes conferidas ao homem em razao do trabalho, hoje, neste se perdem, sendo alvo de negociaces, haja vista o periodo de flexibilizacao e desregulamentacao das relaces trabalhistas em que a sociedade se encontra.
+Diante de tudo isto, pode-se dizer que toda luta travada desde a Revolucao Industrial ate os dias atuais esta se decompondo e, a passos largos, a classe trabalhadora retrocede.
+Nos ultimos anos, surgiu no cenario nacional o apelo da classe trabalhadora que, diante das mais diversas formas de pressao psicologica e agressao moral, praticadas de modo sucessivo e sutil no ambiente de trabalho, se viu vitima do assedio moral.
+Para maior compreensao da discussao que se segue e preciso antes de tudo conceituar assedio moral laboral. Pode-se definir assedio moral na relacao de trabalho como o comportamento intencional, abusivo, ostensivo, de molestacao praticado reiteradamente com a intencao de enfraquecer moralmente o trabalhador, ou grupo de trabalhadores, com o objetivo de dominar o outro impondo-lhe sujeicao.
+Ressalte-se que a pratica do assedio moral e tao antiga quanto o proprio trabalho, contudo nao faz muito tempo que ganhou contornos juridicos ensejando novas discusses. Pode-se dizer que a grande divulgacao da midia em relacao a existencia de um lado sombrio nas relaces de trabalho contribuiu para que os empregados se conscientizassem e tomassem coragem para denunciar e buscar junto a justica seus direitos.
+O assedio moral, hoje em dia, provoca um impacto muito maior que em outras epocas, quando o ritmo de competicao era menos elevado e estimulado. O mercado de trabalho tornou-se muito mais exigente, criou-se uma rotina de aumento de produtividade, gerando medo, angustia, incertezas ao trabalhador que, por sua vez, temendo perder seu emprego, passa a ser cumplice da agressao moral que a ele e dirigida, torna-se um adversario para os colegas e se sente num verdadeiro campo de guerra.
+O assedio, tal como e hoje, e efeito dos tempos modernos, da globalizacao, da flexibilizacao do trabalho, da competicao pelo mercado de trabalho, e fruto da ansiedade ante uma nova tarefa, do medo de nao saber, da avaliacao constante do desempenho, da certeza de existir um exercito de trabalhadores desempregados e aptos a realizar a mesma tarefa que ele, toda essa cobranca por eficacia tecnica, excelencia, criatividade e produtividade, geram tensao e incerteza.
+Dentro da atual estrutura organizacional do trabalho, na qual novos riscos aos trabalhadores sao impostos, sao comuns disturbios mentais e fisicos gerados pela pressao para produzir e ultrapassar as metas pre-estabelecidas. Aos trabalhadores e exigido ritmo intenso em jornadas prolongadas; fazer mais com menos pessoas e em ambiente de competitividade acentuada. A soma de todos estes fatores agrava acentua as causas e conseqencias do assedio moral.
+}
+
+puts KeywordExtractor.extract_most_important_words(outro_texto, 20).map { |w| "#{w} #{w.rank}"}
