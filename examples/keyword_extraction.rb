@@ -1,5 +1,7 @@
-require 'bundler'
-Bundler.require
+# require 'bundler'
+# Bundler.require
+
+require '../lib/keyword_extractor.rb'
 
 text = %q{A historia do homem retrata, desde os primordios, a producao de bens e servicos calcada na exploracao dos mais fracos pelos mais fortes. Ao longo de todo um periodo evolutivo, o trabalho se aprimorou atraves de tecnicas e recursos. Humanizou-se! O trabalhador, apos muita luta, conquistou direitos que lhe asseguraram qualidade de vida.
 No atual contexto, honra e dignidade, antes conferidas ao homem em razao do trabalho, hoje, neste se perdem, sendo alvo de negociaces, haja vista o periodo de flexibilizacao e desregulamentacao das relaces trabalhistas em que a sociedade se encontra.
@@ -40,4 +42,4 @@ O assedio, tal como e hoje, e efeito dos tempos modernos, da globalizacao, da fl
 Dentro da atual estrutura organizacional do trabalho, na qual novos riscos aos trabalhadores sao impostos, sao comuns disturbios mentais e fisicos gerados pela pressao para produzir e ultrapassar as metas pre-estabelecidas. Aos trabalhadores e exigido ritmo intenso em jornadas prolongadas; fazer mais com menos pessoas e em ambiente de competitividade acentuada. A soma de todos estes fatores agrava acentua as causas e conseqencias do assedio moral.
 }
 
-puts KeywordExtractor.extract_most_important_words(outro_texto, 20).map { |w| "#{w} #{w.rank}"}
+puts KeywordExtractor.extract_most_important_words(text, 20).map { |w| "#{w} #{w.rank}"}
